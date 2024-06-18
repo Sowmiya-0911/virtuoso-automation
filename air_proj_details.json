@@ -1,0 +1,15 @@
+[
+    {
+        "team_name": "Online Appointment Scheduling (OAS)",
+        "projects": [
+            {
+                "project_id": "78044",
+                "project_name": "AppointmentManager - Facilities",
+                "execution_planner_name": ["QAT Regression - MLA", "Qat Regression - Part 1", "Qat Regression - Part 2"],
+                "planner_id": ["27912", "23443", "26986"],
+                "goal_names": ["Appointment Audit Trail", "Appointment Section (Global,Load list,List View,Calendar View)", "Appointments", "Carrier Portal (Appointment Manager) - Part 1", "Carrier Portal (Appointment Manager) - Part 2", "Carrierportal(ReasonCode Off) - MLA", "Carrierportal(ReasonCode On) - MLA", "eta indicator", "Facility Admin", "Facility Networks", "Live Dashboard", "Login and Logout", "Multi select unblocking", "Reserve slot", "Sanity", "Shipper Portal (Calendar and CBC Features) - Part 1", "Shipper Portal Features Part-1", "Shipperportal(ReasonCode Off) - MLA", "Shipperportal(ReasonCode On) - MLA", "Standing appointment creation", "Standing Appointment Updation", "trac to am sync"],
+                "goal_ids": ["130935", "90913", "91762", "122393", "132159", "134253", "134385", "134923", "135750", "133013", "133374", "135777", "133483", "133576", "135076", "132455", "132750", "133154", "133823", "133352", "133613", "136698"]
+            }
+        ]
+    }
+]

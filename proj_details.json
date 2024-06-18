@@ -1,0 +1,171 @@
+[
+    {
+        "team_name": "PHD",
+        "projects": [
+            {
+                "project_id": "55090",
+                "project_name": "Self Service",
+                "execution_planner_name": ["Regression_test", "Regression_Manual file upload", "Regression_test_2"],
+                "planner_id": ["2988", "3069", "20620"],
+                "goal_names": ["Fourkites_Connect_Regression", "API Testing", "Email Integration", "FK Standard", "Navigate to FKC for SSO user"],
+                "goal_ids": ["68785", "69925", "72331", "69877", "66859"]
+            }
+        ]
+    },
+    {
+        "team_name": "OV",
+        "projects": [
+            {
+                "project_id": "78135",
+                "project_name": "OIS",
+                "execution_planner_name": ["RELEASE REGRESSION"],
+                "planner_id": ["28439"],
+                "goal_names": ["Comment and Bulk Comments", "Configurable Columns/ Configure Filters", "Configure Filters, Saved Filters, Shared Filters", "Export views, Saved templates and sharable templates", "Inventory Dashboard", "Inventory Listing", "OIS Notification", "Order Listing", "Order Listing Filters left panel", "Order Search, Sort By", "Risk Reason"],
+                "goal_ids": ["133439", "129488", "133358", "134793", "93547", "91294", "139701", "97201", "118730", "133575", "133636"]
+            }
+        ]
+    },
+    {
+        "team_name": "Dynamic Yard Fusion (DYF)",
+        "projects": [
+            {
+                "project_id": "49535",
+                "project_name": "DynamicyardFusion - Facilities BU",
+                "execution_planner_name": ["DYP QAT Regression", "DYP QAT Regression (Switchers)"],
+                "planner_id": ["35235", "35961"],
+                "goal_names": ["Ad-hoc Shipments (Check-in)", "Check-in", "Check-out", "Docks (Docks Table)", "Docks (Spot task filters)", "Shipments", "Tasks (Bump)", "Tasks (Filters)", "Tasks (Move Pull)", "Tasks (Move Spot)", "Tasks (PreCool)", "Tasks (Refuel)", "Tasks (Switchers)"],
+                "goal_ids": ["141337", "138738", "138793", "138732", "143727", "138730", "145523", "145282", "145520", "138800", "145521", "145522", "143981"]
+            }
+        ]
+    },
+    {
+        "team_name": "Online Appointment Scheduling (OAS)",
+        "projects": [
+            {
+                "project_id": "78044",
+                "project_name": "AppointmentManager - Facilities",
+                "execution_planner_name": ["QAT Regression - MLA", "Qat Regression - Part 1", "Qat Regression - Part 2"],
+                "planner_id": ["27912", "23443", "26986"],
+                "goal_names": ["Appointment Audit Trail", "Appointment Section (Global,Load list,List View,Calendar View)", "Appointments", "Carrier Portal (Appointment Manager) - Part 1", "Carrier Portal (Appointment Manager) - Part 2", "Carrierportal(ReasonCode Off) - MLA", "Carrierportal(ReasonCode On) - MLA", "eta indicator", "Facility Admin", "Facility Networks", "Live Dashboard", "Login and Logout", "Multi select unblocking", "Reserve slot", "Sanity", "Shipper Portal (Calendar and CBC Features) - Part 1", "Shipper Portal Features Part-1", "Shipperportal(ReasonCode Off) - MLA", "Shipperportal(ReasonCode On) - MLA", "Standing appointment creation", "Standing Appointment Updation", "trac to am sync"],
+                "goal_ids": ["130935", "90913", "91762", "122393", "132159", "134253", "134385", "134923", "135750", "133013", "133374", "135777", "133483", "133576", "135076", "132455", "132750", "133154", "133823", "133352", "133613", "136698"]
+            }
+        ]
+    },
+    {
+        "team_name": "AIR (AIR)",
+        "projects": [
+            {
+                "project_id": "88101",
+                "project_name": "ISBU-Air-Rail",
+                "execution_planner_name": ["Night Air run"],
+                "planner_id": ["29040"],
+                "goal_names": ["Air Service cases(Air)"],
+                "goal_ids": ["139109"]
+            }
+        ]
+    },
+    {
+        "team_name": "Barge (BARGE)",
+        "projects": [
+            {
+                "project_id": "99981",
+                "project_name": "Barge",
+                "execution_planner_name": ["Barge FEC Test Execution"],
+                "planner_id": ["34121"],
+                "goal_names": ["Barge Tracking Test Cases"],
+                "goal_ids": ["139629"]
+            }
+        ]
+    },
+    {
+        "team_name": "Ocean (OC)",
+        "projects": [
+            {
+                "project_id": "72777",
+                "project_name": "ISBU - Ocean",
+                "execution_planner_name": ["FEC_REGRESSION_PLAN", "TRACKING FEC_REGRESSION_PLAN", "JAPANESE_REGRESSION_PLAN", "UI_REGRESSION_PLAN"],
+                "planner_id": ["29163", "31061", "34378", "29692"],
+                "goal_names": ["FEC Regression signoff cases", "TRACKING FEC", "Existing UI TCs"],
+                "goal_ids": ["138562", "140121", "138707"]
+            }
+        ]
+    },
+    {
+        "team_name": "RAIL (RAIL)",
+        "projects": [
+            {
+                "project_id": "88101",
+                "project_name": "ISBU-Air-Rail",
+                "execution_planner_name": ["Regression Rail Run"],
+                "planner_id": ["31176"],
+                "goal_names": ["REGRESSION SUITE(RAIL)"],
+                "goal_ids": ["140120"]
+            }
+        ]
+    },
+    {
+        "team_name": "LTL (LTLNG)",
+        "projects": [
+            {
+                "project_id": "57480",
+                "project_name": "LTL",
+                "execution_planner_name": ["Regression Run", "Regression run 2"],
+                "planner_id": ["2912", "28869"],
+                "goal_names": ["LTL Service", "Parcel Load Creation from UI load creation page.", "E-URL Page", "LTL LOAD CREATION", "TrackingService", "Milestone service API", "Validate PATCH API", "NEW LOAD CREATION", "View Load", "UPS PubSub", "Additional Data Ingestion", "Load Service", "Company and Network Settings LTL"],
+                "goal_ids": ["73627", "69442", "69431", "69441", "73306", "73293", "73410", "69449", "69439", "89164", "75675", "73661", "71191"]
+            }
+        ]
+    },
+    {
+        "team_name": "Redesign (RD)",
+        "projects": [
+            {
+                "project_id": "61102",
+                "project_name": "Redesign / Beta UI",
+                "execution_planner_name": ["Regression"],
+                "planner_id": ["18341"],
+                "goal_names": ["Export to Excel", "RD Filters", "Search - Copy", "Configure Filters", "RD Browser compatibility", "RD Expanded Load Card", "RD Global Header", "RD Load Card", "RD Load Details Journey Timeline", "RD Load List", "Comments", "Documents", "RD Configure Shipment cards"],
+                "goal_ids": ["132859", "131023", "131030", "145009", "131011", "131022", "131025", "131027", "142846", "131029", "146591", "145486", "131028"]
+            }
+        ]
+    },
+    {
+        "team_name": "Address Manager (ADM)",
+        "projects": [
+            {
+                "project_id": "78903",
+                "project_name": "Platform Team",
+                "execution_planner_name": ["Geo Service+EURL Regression"],
+                "planner_id": ["29891"],
+                "goal_names": ["Geo Service"],
+                "goal_ids": ["139346"]
+            }
+        ]
+    },
+    {
+        "team_name": "Collaboration (COL)",
+        "projects": [
+            {
+                "project_id": "78903",
+                "project_name": "Platform Team",
+                "execution_planner_name": ["API_Regression", "Regression_UI"],
+                "planner_id": ["30095", "29337"],
+                "goal_names": ["Unified Export to Excel - API", "Unified Exports UI Regression"],
+                "goal_ids": ["138648", "138667"]
+            }
+        ]
+    },
+    {
+        "team_name": "Core Application(UM)",
+        "projects": [
+            {
+                "project_id": "101730",
+                "project_name": "UserManagementService",
+                "execution_planner_name": ["SSO Login"],
+                "planner_id": ["33196"],
+                "goal_names": ["SSO Login (Parent Child Relationship)", "New Login Page", "SSO Login Regression"],
+                "goal_ids": ["141348", "146595", "143977"]
+            }
+        ]
+    }
+]
