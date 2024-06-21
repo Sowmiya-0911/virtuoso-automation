@@ -1,0 +1,14 @@
+Team Name,Journey Created,TC Executed,TC Passed,TC Failed
+PHD,118,0,0,0
+OV,79,40,21,19
+Dynamic Yard Fusion (DYF),231,198,37,161
+Online Appointment Scheduling (OAS),263,197,113,84
+AIR (AIR),6,101,84,17
+Barge (BARGE),8,7,6,1
+Ocean (OC),56,53,47,6
+RAIL (RAIL),16,13,5,8
+LTL (LTLNG),63,60,58,2
+Redesign (RD),133,0,0,0
+Address Manager (ADM),4,5,3,2
+Collaboration (COL),18,17,4,13
+Core Application(UM),29,6,2,4

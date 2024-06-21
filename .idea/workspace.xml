@@ -5,35 +5,57 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8ef1c5e6-30be-4b5e-84ff-283a59fa2162" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/goals_journey.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/activity.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/air_proj_details.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/goal.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/new.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/next_run.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/output.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/proj_details.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/proj_details.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/result.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test2.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test3.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test4.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test5(not work).json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test6.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testfile.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/try.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/virtuoso.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/virtuoso1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/virtuoso2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/virtuoso3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/virtuoso_email.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/virtuoso_final.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/detailed log_2024-06-21 14:33:38.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/detailed_summary copy.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/detailed_summary.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/detailed_summary1.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/log_2024-06-20 17:35:23.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/log_2024-06-20_15-28-45.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/log_2024-06-20_15-44-28.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/log_2024-06-20_15-56-54.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/log_2024-06-20_16-22-35.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/log_2024-06-20_16-28-41.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/log_2024-06-20_16-31-18.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/log_2024-06-20_16-40-11.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/log_2024-06-20_17-32-40.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/log_2024-06-20_17-46-23.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/log_2024-06-20_17-51-24.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/log_2024-06-20_17-54-53.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/log_2024-06-20_17-58-24.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/log_2024-06-20_18-01-36.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/log_2024-06-20_18-17-08.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/log_2024-06-20_18-25-14.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/log_2024-06-21 11:30:59.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/log_2024-06-21 11:57:13.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/log_2024-06-21 12:20:48.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/log_2024-06-21 12:33:40.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/log_2024-06-21 13:07:51.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/log_2024-06-21 13:11:38.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/log_2024-06-21 13:14:15.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/log_2024-06-21_10-12-01.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/summary copy.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/summary-final copy.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/summary-final.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/summary.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/summary1 copy.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/summary1.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/summary1copy.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/virtuoso result 21 jun 2024.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/virtuoso21jun-1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/virtuoso_automation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/virtuoso_report_program.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/virtuoso_tc.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/virtuoso_tc1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/virtuoso_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/virtuoso_test1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/virtuoso_testing.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/virtuoso_testing1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/air_proj_details.json" beforeDir="false" afterPath="$PROJECT_DIR$/air_proj_details.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/new.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result.csv" beforeDir="false" afterPath="$PROJECT_DIR$/result.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/virtuoso_email.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/virtuoso_final.py" beforeDir="false" afterPath="$PROJECT_DIR$/virtuoso_final.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,10 +90,25 @@
     "Python.journey_count.executor": "Run",
     "Python.virtuoso.executor": "Run",
     "Python.virtuoso2.executor": "Run",
+    "Python.virtuoso21jun-1.executor": "Run",
+    "Python.virtuoso_automation.executor": "Run",
+    "Python.virtuoso_final.executor": "Run",
+    "Python.virtuoso_tc.executor": "Run",
+    "Python.virtuoso_test.executor": "Run",
+    "Python.virtuoso_test1.executor": "Run",
+    "Python.virtuoso_testing.executor": "Run",
+    "Python.virtuoso_testing1.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master"
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "/Users/sowmiya.s/PycharmProjects/goals_journey",
+    "two.files.diff.last.used.file": "/Users/sowmiya.s/PycharmProjects/goals_journey/virtuoso_testing.py"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>

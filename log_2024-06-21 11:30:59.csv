@@ -1,0 +1,90 @@
+Team Name,Execution Planner Name,Goal Name,Total TC Executed,Total TC Passed,Total Failed
+OV,RELEASE REGRESSION  ,"Order Search, Sort by",8,5,3
+OV,RELEASE REGRESSION  ,Comment and Bulk Comments,3,2,1
+OV,RELEASE REGRESSION  ,Risk Reason,3,3,0
+OV,RELEASE REGRESSION  ,Order Listing ,6,3,3
+OV,RELEASE REGRESSION  ,Order Listing Filters  left pannel,5,0,5
+OV,RELEASE REGRESSION  ,"Export views, Saved templates and sharable templates",9,8,1
+OV,RELEASE REGRESSION  ,OIS Notification,6,0,6
+Dynamic Yard Fusion (DYF),DYP QAT Regression,Tasks (Bump),7,0,7
+Dynamic Yard Fusion (DYF),DYP QAT Regression,Tasks (Filters),24,5,19
+Dynamic Yard Fusion (DYF),DYP QAT Regression,Tasks (Move Spot),15,3,12
+Dynamic Yard Fusion (DYF),DYP QAT Regression,Tasks (PreCool),7,4,3
+Dynamic Yard Fusion (DYF),DYP QAT Regression,Tasks (Refuel),8,2,6
+Dynamic Yard Fusion (DYF),DYP QAT Regression,Ad-hoc Shipments (Check-in),18,0,18
+Dynamic Yard Fusion (DYF),DYP QAT Regression,Check-in,34,1,33
+Dynamic Yard Fusion (DYF),DYP QAT Regression,Check-out,9,0,9
+Dynamic Yard Fusion (DYF),DYP QAT Regression,Docks (Docks Table),40,4,36
+Dynamic Yard Fusion (DYF),DYP QAT Regression,Docks (Spot task filters),25,9,16
+Dynamic Yard Fusion (DYF),DYP QAT Regression (Switchers),Tasks (Switchers),11,9,2
+Online Appointment Scheduling (OAS),QAT Regression - MLA,Shipperportal(ReasonCode On) - MLA,11,6,5
+Online Appointment Scheduling (OAS),QAT Regression - MLA,Shipperportal(ReasonCode Off) - MLA,17,1,16
+Online Appointment Scheduling (OAS),QAT Regression - MLA,Carrierportal(ReasonCode On) - MLA,6,2,4
+Online Appointment Scheduling (OAS),QAT Regression - MLA,Carrierportal(ReasonCode Off) - MLA,6,0,6
+Online Appointment Scheduling (OAS),Qat Regression - Part 1,Shipper Portal Features Part-1,30,23,7
+Online Appointment Scheduling (OAS),Qat Regression - Part 1,Live Dashboard,12,11,1
+Online Appointment Scheduling (OAS),Qat Regression - Part 1,Shipper Portal (Calendar and CBC Features) - Part 1,17,14,3
+Online Appointment Scheduling (OAS),Qat Regression - Part 1,"Appointment Section (Global,Load list,List View,Calendar View)",10,7,3
+Online Appointment Scheduling (OAS),Qat Regression - Part 1,Sanity,5,3,2
+Online Appointment Scheduling (OAS),Qat Regression - Part 1,Carrier Portal (Appointment Manager) - Part 1,6,2,4
+Online Appointment Scheduling (OAS),Qat Regression - Part 1,Appointments,7,5,2
+Online Appointment Scheduling (OAS),Qat Regression - Part 1,Login and Logout,2,1,1
+Online Appointment Scheduling (OAS),Qat Regression - Part 1,Facility Admin,2,0,2
+Online Appointment Scheduling (OAS),Qat Regression - Part 1,Carrier Portal (Appointment Manager) - Part 2,9,5,4
+Online Appointment Scheduling (OAS),Qat Regression - Part 1,Notifications,7,0,7
+Online Appointment Scheduling (OAS),Qat Regression - Part 2,eta indicator,3,0,3
+Online Appointment Scheduling (OAS),Qat Regression - Part 2,Facility Networks,7,5,2
+Online Appointment Scheduling (OAS),Qat Regression - Part 2,Appointment Audit Trail,7,5,2
+Online Appointment Scheduling (OAS),Qat Regression - Part 2,trac to am sync,12,4,8
+Online Appointment Scheduling (OAS),Qat Regression - Part 2,Reserve slot,5,4,1
+Online Appointment Scheduling (OAS),Qat Regression - Part 2,Standing Appointment Updation ,5,4,1
+Online Appointment Scheduling (OAS),Qat Regression - Part 2,Multi select unblocking,6,6,0
+Online Appointment Scheduling (OAS),Qat Regression - Part 2,Standing appointment creation,5,5,0
+AIR (AIR),Night Air run,Air Service cases(Air),5,5,0
+AIR (AIR),Night Air run,Air Booking Service cases (Air),12,11,1
+AIR (AIR),Night Air run,Air Worker Cases(Air),25,21,4
+AIR (AIR),Night Air run,Air Milestones Service cases (Air),55,43,12
+AIR (AIR),Night Air run,Common Service cases (Air),4,4,0
+Barge (BARGE),Barge FEC Test Execution,Barge Tracking Test Cases,7,6,1
+Ocean (OC),FEC_REGRESSION_PLAN,FEC Regression signoff cases,22,18,4
+Ocean (OC),TRACKING FEC_REGRESSION_PLAN,TRACKING FEC,3,3,0
+Ocean (OC),JAPANESE_REGRESSION_PLAN,FEC Regression signoff cases,8,7,1
+Ocean (OC),UI_REGRESSION_PLAN,Existing UI TCs ,20,19,1
+RAIL (RAIL),Regression Rail Run,REGRESSION SUITE(Rail),13,5,8
+LTL (LTLNG),Regression Run,E-URL Page,2,2,0
+LTL (LTLNG),Regression Run,Parcel Load Creation from UI load creation page.,3,3,0
+LTL (LTLNG),Regression Run,TrackingService,3,3,0
+LTL (LTLNG),Regression Run,LTL LOAD CREATION ,2,2,0
+LTL (LTLNG),Regression Run,Validate PATCH API,1,1,0
+LTL (LTLNG),Regression Run,Milestone service API,2,2,0
+LTL (LTLNG),Regression Run,View Load,27,25,2
+LTL (LTLNG),Regression Run,NEW LOAD CREATION,1,1,0
+LTL (LTLNG),Regression Run,Additional Data Ingestion,4,4,0
+LTL (LTLNG),Regression Run,UPS PubSub,4,4,0
+LTL (LTLNG),Regression Run,LTL Service,1,1,0
+LTL (LTLNG),Regression Run,Load Service,6,6,0
+LTL (LTLNG),Regression Run,Company and Network Settings LTL,2,2,0
+LTL (LTLNG),Regression run 2,LTL Service,2,2,0
+Redesign (RD),Regression,RD Filters,20,17,3
+Redesign (RD),Regression,Export to Excel,3,2,1
+Redesign (RD),Regression,RD Expanded Load Card,13,13,0
+Redesign (RD),Regression,RD Browser compatibility,5,5,0
+Redesign (RD),Regression,RD Load Details Journey Timeline,1,1,0
+Redesign (RD),Regression,RD Global Header ,3,3,0
+Redesign (RD),Regression,RD Configure Shipment cards,5,5,0
+Redesign (RD),Regression,RD LoadList,10,9,1
+Redesign (RD),Regression,Documents,3,2,1
+Redesign (RD),Regression,Comments,2,1,1
+Redesign (RD),Regression,Sharable Filters,5,5,0
+Redesign (RD),Regression,Configure Filters,11,9,2
+Redesign (RD),Regression,Search - Copy,4,4,0
+Redesign (RD),Regression,Saved Filters,4,4,0
+Redesign (RD),Regression,white labelling,3,1,2
+Redesign (RD),Regression,RD Load Card,28,23,5
+Address Manager (ADM),Geo Service + EURL Regression,Geo Service,4,3,1
+Address Manager (ADM),Geo Service + EURL Regression,EURL Service,1,0,1
+Collaboration (COL),API_Regression,Unified Exports UI Regression,3,1,2
+Collaboration (COL),API_Regression,Unified Export to Excel - API,3,3,0
+Collaboration (COL),Regression_UI,Unified Exports UI Regression,11,0,11
+Core Application(UM),SSO Login,SSO Login (Parent Child Relationship),3,2,1
+Core Application(UM),SSO Login,SSO Login Regression ,3,0,3
